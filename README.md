@@ -1,3 +1,7 @@
+[![Last Updated](https://img.shields.io/github/last-commit/grahamrowe82/mcp-quality-index?label=last%20updated)](https://github.com/grahamrowe82/mcp-quality-index/commits/main)
+[![Servers Scored](https://img.shields.io/badge/servers_scored-12,653-blue)](#datasets)
+[![License](https://img.shields.io/github/license/grahamrowe82/mcp-quality-index)](LICENSE)
+
 # MCP Quality Index
 
 Daily-updated quality scores for 12,653+ MCP server repositories. Machine-readable JSON. No auth required.
@@ -25,6 +29,8 @@ The composite **quality score** (0-100) classifies each server into a tier:
 | **Experimental** | <30 | 8,842 | Minimal signals |
 
 Risk flags are computed per repo: `archived`, `no_license`, `stale_6m`, `no_package`, `no_dependents`.
+
+See [METHODOLOGY.md](METHODOLOGY.md) for the full scoring model, and [`schema/`](schema/) for field-level documentation.
 
 ## Datasets
 
