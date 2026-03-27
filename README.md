@@ -73,11 +73,11 @@ curl -s https://raw.githubusercontent.com/grahamrowe82/mcp-quality-index/main/da
 The same data is available via the PT-Edge API (no auth required):
 
 ```
-GET https://pt-edge.onrender.com/api/v1/datasets/mcp-scores
-GET https://pt-edge.onrender.com/api/v1/datasets/mcp-scores?quality_tier=verified
-GET https://pt-edge.onrender.com/api/v1/datasets/mcp-scores?subcategory=gateway
-GET https://pt-edge.onrender.com/api/v1/datasets/mcp-repos
-GET https://pt-edge.onrender.com/api/v1/datasets/projects
+GET https://mcp.phasetransitions.ai/api/v1/datasets/mcp-scores
+GET https://mcp.phasetransitions.ai/api/v1/datasets/mcp-scores?quality_tier=verified
+GET https://mcp.phasetransitions.ai/api/v1/datasets/mcp-scores?subcategory=gateway
+GET https://mcp.phasetransitions.ai/api/v1/datasets/mcp-repos
+GET https://mcp.phasetransitions.ai/api/v1/datasets/projects
 ```
 
 ## Update frequency
