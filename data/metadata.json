@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "exported_at": "2026-03-27T09:48:56.137131+00:00",
+  "exported_at": "2026-03-28T18:26:19.632209+00:00",
   "source": "https://pt-edge.onrender.com",
   "license": "CC-BY-4.0",
   "datasets": {
     "mcp-scores.json": {
-      "records": 12653,
+      "records": 13655,
       "description": "MCP quality scores"
     },
     "mcp-repos.json": {
-      "records": 12512,
+      "records": 13513,
       "description": "MCP repos"
     },
     "projects.json": {
