@@ -1,5 +1,5 @@
 [![Last Updated](https://img.shields.io/github/last-commit/grahamrowe82/mcp-quality-index?label=last%20updated)](https://github.com/grahamrowe82/mcp-quality-index/commits/main)
-[![Servers Scored](https://img.shields.io/badge/servers_scored-13641-blue)](#datasets)
+[![Servers Scored](https://img.shields.io/badge/servers_scored-14868-blue)](#datasets)
 [![License](https://img.shields.io/github/license/grahamrowe82/mcp-quality-index)](LICENSE)
 
 # MCP Quality Index
