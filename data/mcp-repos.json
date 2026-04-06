@@ -81135,33 +81135,6 @@
     "commits_30d": null
   },
   {
-    "full_name": "maplehilllabs/mcp-limitless",
-    "name": "mcp-limitless",
-    "description": "MCP server for Limitless Pendant \u2014 search, retrieve, and analyze lifelog recordings from Claude.",
-    "stars": 7,
-    "forks": 2,
-    "language": "TypeScript",
-    "topics": [
-      "claude",
-      "limitless-pendant",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "transcription",
-      "typescript",
-      "wearable"
-    ],
-    "license": "MIT",
-    "last_pushed_at": "2026-02-25T21:45:17+00:00",
-    "archived": false,
-    "subcategory": "application-software-integration",
-    "downloads_monthly": 0,
-    "dependency_count": 0,
-    "pypi_package": null,
-    "npm_package": null,
-    "commits_30d": null
-  },
-  {
     "full_name": "asgard-ai-platform/mcp-shopline",
     "name": "mcp-shopline",
     "description": null,
@@ -81185,6 +81158,33 @@
     "downloads_monthly": 0,
     "dependency_count": 1,
     "pypi_package": "mcp-shopline",
+    "npm_package": null,
+    "commits_30d": null
+  },
+  {
+    "full_name": "maplehilllabs/mcp-limitless",
+    "name": "mcp-limitless",
+    "description": "MCP server for Limitless Pendant \u2014 search, retrieve, and analyze lifelog recordings from Claude.",
+    "stars": 7,
+    "forks": 2,
+    "language": "TypeScript",
+    "topics": [
+      "claude",
+      "limitless-pendant",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "transcription",
+      "typescript",
+      "wearable"
+    ],
+    "license": "MIT",
+    "last_pushed_at": "2026-02-25T21:45:17+00:00",
+    "archived": false,
+    "subcategory": "application-software-integration",
+    "downloads_monthly": 0,
+    "dependency_count": 0,
+    "pypi_package": null,
     "npm_package": null,
     "commits_30d": null
   },
