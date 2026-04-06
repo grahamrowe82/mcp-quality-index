@@ -90017,6 +90017,30 @@
     "commits_30d": null
   },
   {
+    "full_name": "djfaizp/il2cpp-dump-analyzer",
+    "name": "il2cpp-dump-analyzer",
+    "description": "Agentic RAG system for analyzing IL2CPP dump.cs files from Unity games",
+    "stars": 6,
+    "forks": 4,
+    "language": "C#",
+    "topics": [
+      "il2cpp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "rag-pipeline"
+    ],
+    "license": "MIT",
+    "last_pushed_at": "2025-05-28T19:14:34+00:00",
+    "archived": false,
+    "subcategory": "unity-mcp-servers",
+    "downloads_monthly": 0,
+    "dependency_count": 0,
+    "pypi_package": null,
+    "npm_package": null,
+    "commits_30d": null
+  },
+  {
     "full_name": "sjquant/llm-bridge-mcp",
     "name": "llm-bridge-mcp",
     "description": "A model-agnostic Message Control Protocol (MCP) server that enables seamless integration with various Large Language Models (LLMs) like GPT, DeepSeek, Claude, and more.",
@@ -90038,30 +90062,6 @@
     "last_pushed_at": "2025-07-23T08:22:14+00:00",
     "archived": false,
     "subcategory": "llm-orchestration-routing",
-    "downloads_monthly": 0,
-    "dependency_count": 0,
-    "pypi_package": null,
-    "npm_package": null,
-    "commits_30d": null
-  },
-  {
-    "full_name": "djfaizp/il2cpp-dump-analyzer",
-    "name": "il2cpp-dump-analyzer",
-    "description": "Agentic RAG system for analyzing IL2CPP dump.cs files from Unity games",
-    "stars": 6,
-    "forks": 4,
-    "language": "C#",
-    "topics": [
-      "il2cpp",
-      "mcp-client",
-      "mcp-server",
-      "mcp-tools",
-      "rag-pipeline"
-    ],
-    "license": "MIT",
-    "last_pushed_at": "2025-05-28T19:14:34+00:00",
-    "archived": false,
-    "subcategory": "unity-mcp-servers",
     "downloads_monthly": 0,
     "dependency_count": 0,
     "pypi_package": null,
